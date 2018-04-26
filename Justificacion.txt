@@ -1,0 +1,9 @@
+La clase Log cuenta con una lista de robots y tareas
+Esta es actualizada cada vez que se inicia el programa por la Clase writer
+que es la que interactua con el archivo txt. La primera vez que se utiliza el
+programa este archivo esta vacio si se cierra el programa se escribe en este 
+el log actual de las tareas.
+Cada tarea se le asigna un robot cuando se hace esto se guarda el timeStamp de inicio
+finalmente finalmente cuando se termina se guarda el otro timestamp de final.
+Solo si las tareas se han terminado son guardadas en el archivo txt si finaliza el
+programa. Cada robot trabaja en una tarea y se le es asignada una nueva cada vez que termina. 
